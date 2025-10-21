@@ -1,0 +1,31 @@
+# Core paired piano datasets
+- name: MAESTRO
+  version: 3.0.0
+  url: https://magenta.tensorflow.org/datasets/maestro
+  license: CC-BY-4.0
+  notes: >-
+    Large-scale Disklavier recordings with aligned MIDI and audio. Ensure attribution per license terms.
+- name: Yamaha Disklavier Performances
+  version: 2017-2023
+  url: https://www.ens.psl.eu/en
+  license: Custom academic license
+  notes: >-
+    Access typically restricted to academic partners; confirm redistribution rights before integrating.
+- name: Vienna 4+ Piano
+  version: 2020
+  url: https://www.vsl.co.at/en/Vienna_Smart_Sounds/Big_Bang_Orchestra
+  license: Commercial EULA
+  notes: >-
+    Commercial sample library recordings requiring purchased license; usage limited by VSL terms.
+- name: ASAP
+  version: 1.0
+  url: https://github.com/ASAP-dataset/ASAP
+  license: CC-BY-NC-4.0
+  notes: >-
+    Includes curated alignments between MIDI and scores; non-commercial clause applies.
+- name: GiantMIDI-Piano
+  version: 1.2
+  url: https://github.com/bytedance/GiantMIDI-Piano
+  license: CC-BY-NC-4.0
+  notes: >-
+    Automatically transcribed virtuoso repertoire; verify public-domain status per territory.
